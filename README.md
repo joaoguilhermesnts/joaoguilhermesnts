@@ -1,14 +1,4 @@
-<!--
-  ╔══════════════════════════════════════════════════════════╗
-  ║  COMO USAR                                               ║
-  ║  1. Troque SEU_USUARIO pelo seu @ do GitHub (Ctrl+H)     ║
-  ║  2. Troque SEU_LINKEDIN e SEU_EMAIL na seção Connect     ║
-  ║  3. Edite os textos marcados com ✏️                      ║
-  ╚══════════════════════════════════════════════════════════╝
--->
-
 <!-- ═══════════════ BANNER ═══════════════ -->
-<!-- ✏️ Para usar uma imagem sua: coloque em assets/banner.png e troque o src por "assets/banner.png" -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=180&section=header&text=&fontSize=0" width="100%" alt="Banner" />
 </p>
@@ -18,7 +8,6 @@
 
 <h3 align="center">Full-Stack Developer</h3>
 
-<!-- ✏️ Troque as frases em "lines=" (separe com ;  e use + no lugar de espaço) -->
 <p align="center">
   <a href="https://github.com/joaoguilhermesnts">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=C9D1D9&center=true&vCenter=true&width=420&lines=Just+Code.;Clean+Architecture.;Scalable+Solutions." alt="Typing SVG" />
@@ -26,7 +15,7 @@
 </p>
 
 <p align="center">
-  Construindo sistemas backend confiáveis, com arquitetura limpa e soluções escaláveis.
+  Construindo sistemas confiáveis, com arquitetura limpa e soluções escaláveis, do front ao back.
 </p>
 
 ---
@@ -38,17 +27,16 @@
   <tr>
     <td valign="top" width="65%">
 
-**Guilherme** aqui — estudante de ✏️ Análise e Desenvolvimento de Sistemas focado em desenvolvimento full-stack.
+**Guilherme** aqui — estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento full-stack.
 
-Gosto de construir APIs escaláveis e prontas para produção com Python, e estou sempre aprofundando meu entendimento de sistemas backend reais.
+Gosto de construir aplicações e APIs escaláveis e prontas para produção, com Python e C#, e estou sempre aprofundando meu entendimento de sistemas reais.
 
-Atualmente estou aprendendo **Learning Machine**, **PostgreSQL**, **Csharp**, **Docker** e **MySQL**, enquanto afio minha lógica com **Estruturas de Dados e Algoritmos**.
+Atualmente estou aprendendo **Machine Learning**, **PostgreSQL**, **C#**, **Docker** e **MySQL**, enquanto afio minha lógica com **Estruturas de Dados e Algoritmos**.
 
-Meu objetivo é simples: escrever código limpo, construir software confiável e me tornar um desenvolvedor de softwares que cria sistemas duradouros e seguros.
+Meu objetivo é simples: escrever código limpo, construir software confiável e me tornar um desenvolvedor de software que cria sistemas duradouros e seguros.
 
   </td>
     <td align="center" valign="middle" width="35%">
-      <!-- ✏️ Troque por uma imagem sua (ex: assets/sobre.png) -->
       <img src="https://github.com/joaoguilhermesnts.png" width="200" alt="Foto" />
     </td>
   </tr>
@@ -74,11 +62,8 @@ Meu objetivo é simples: escrever código limpo, construir software confiável e
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 ## 💻 Tech Stack
 
-<!-- ✏️ Lista de ícones: https://github.com/tandpfun/skill-icons#icons-list -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,cs,js,git,github,vscode,linux&perline=10" alt="Backend e ferramentas" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=html,css,c,aws&perline=10" alt="Outras" />
+  <img src="https://skillicons.dev/icons?i=python,cs,js,html,css,postgres,mysql,docker,git,github,vscode,linux&perline=12" alt="Tech Stack" />
 </p>
 
 ---
