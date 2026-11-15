@@ -76,18 +76,22 @@ Meu objetivo é simples: escrever código limpo, construir software confiável e
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaoguilhermesnts&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="165" alt="Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilhermesnts&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="165" alt="Linguagens" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="48%" alt="Detalhes do perfil" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="48%" alt="Estatísticas" />
 </p>
 
 ---
 
-<!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
-## 📈 Activity Graph
+<!-- ═══════════════ ATIVIDADE ═══════════════ -->
+## 📈 Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoguilhermesnts&theme=react-dark&hide_border=true&bg_color=0d1117&area=true" width="100%" alt="Gráfico de contribuições" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" alt="Linguagens por repositório" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" alt="Linguagens por commit" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="48%" alt="Horário mais produtivo" />
 </p>
 
 <!-- ═══════════════ RODAPÉ ═══════════════ -->
